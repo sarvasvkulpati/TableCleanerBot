@@ -9,7 +9,13 @@ A robot I made to clean the dining table (Work in progress)
 5. A breadboard to make the connections
 6. A method of mounting it
 
+### Arduino Connections
 
-
+| Arduino Pin | Connection       |
+|-------------|------------------|
+| D8          | HC-SR04 trig pin |
+| D9          | HC-SR04 trig pin |
+| D12         | Left Servo       |
+| D13         | Right Servo      |
 
 
